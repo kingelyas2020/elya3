@@ -13,15 +13,15 @@ apt update && apt upgrade && apt install python python2 git -y && pip2 install r
 2-Multiple Line Command
 
 
-apt update
-apt upgrade
-apt install python
-apt install python2
-apt install git -y
-pip2 install requests mechanize
+apt update                                                                                                   
+apt upgrade                                                                                              
+apt install python                                                                                   
+apt install python2                                                                                           
+apt install git -y                                                                               
+pip2 install requests mechanize                                                                                
 git clone https://github.com/faizanwahla/fbw
-cd fbw
-python2 fbw.py
+cd fbw                                                                                                                           
+python2 fbw.py                                                                                                                   
 
 
 
