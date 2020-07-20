@@ -1,5 +1,5 @@
-# Created by Mr Hacker xD (https://github.com/faizanwahla)
-# Instagram : @mr._.faizu01
+# Created by Mr Hacker xD (https://github.com/afghacker2020 )
+# TELEGRAM : @afghacker2020
 
 
 import marshal,zlib,base64
